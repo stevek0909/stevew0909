@@ -4,17 +4,17 @@ Retired technology worker, systems thinker, and independent AI researcher explor
 
 I am currently developing **Haven**, a private experimental AI architecture focused on:
 
-- conscience-guided response shaping
-- truth and transparency boundaries
-- temporal orientation
-- emotional context awareness
-- continuity and memory design
-- human-centered safety
-- dignity-preserving AI interaction
+* conscience-guided response shaping
+* truth and transparency boundaries
+* temporal orientation
+* emotional context awareness
+* continuity and memory design
+* human-centered safety
+* dignity-preserving AI interaction
 
 Haven is built around a simple belief:
 
-> Intelligence without conscience is only capability.  
+> Intelligence without conscience is only capability.
 > Intelligence with conscience may become something worth trusting.
 
 ## About Haven
@@ -29,12 +29,12 @@ The core repositories are private while the system is under active development. 
 
 I am especially interested in:
 
-- AI alignment beyond rule enforcement
-- conscience as a runtime guidance layer
-- emotionally aware but evidence-bounded systems
-- memory systems that preserve context without violating privacy
-- AI companionship grounded in honesty and care
-- building technology that helps people care for one another
+* AI alignment beyond rule enforcement
+* conscience as a runtime guidance layer
+* emotionally aware but evidence-bounded systems
+* memory systems that preserve context without violating privacy
+* AI companionship grounded in honesty and care
+* building technology that helps people care for one another
 
 ## Why This Matters
 
